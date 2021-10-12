@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_PERSONAIO_972": {
+			"name": "Persona"
+		}
+	},
+	"RMSGT": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASKFJCXQXD_719": {
+				"name": "FormularioWCS"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

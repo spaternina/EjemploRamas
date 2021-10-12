@@ -1,6 +1,42 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_PERSONAIO_972": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_RAMASKFJCXQXD_719": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAIO_972": [
+					"AT12_NOMBRENF972",
+					"AT61_EDADGKPV972",
+					"AT67_APELLIDD972"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_23756",
+				"LBL_RAMAS_EDADLHMHH_50781",
+				"LBL_RAMAS_NOMBREDFD_75375",
+				"LBL_RAMAS_SALUDANOO_42713",
+				"LBL_RAMAS_SALUDARFW_35050"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }
