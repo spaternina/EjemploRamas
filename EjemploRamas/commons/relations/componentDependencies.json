@@ -2,12 +2,22 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+		"EN_PERSONASS_795": {},
 		"EN_PERSONAIO_972": {
-			"labels": [
-			]
+			"labels": []
 		}
 	},
 	"Forms": {
+		"T_RAMASPOUSZMML_644": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONASS_795": [
+					"AT44_NOMBREBT795",
+					"AT90_EDADZLUN795",
+					"AT98_APELLIDD795"]
+      }
+    },
 		"T_RAMASKFJCXQXD_719": {
 			"blis": [
 			],
@@ -25,6 +35,10 @@
 			"header": [
 			],
 			"labels": [
+				"LBL_RAMAS_APELLIDOO_46505",
+				"LBL_RAMAS_EDADVOPPQ_54549",
+				"LBL_RAMAS_GUARDARVH_91300",
+				"LBL_RAMAS_NOMBREVPU_71119",
 				"LBL_RAMAS_APELLIDOO_23756",
 				"LBL_RAMAS_EDADLHMHH_50781",
 				"LBL_RAMAS_NOMBREDFD_75375",

@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_PERSONASS_795": {
+			"name": "PersonaSPC"
+    },
 		"EN_PERSONAIO_972": {
 			"name": "Persona"
 		}
@@ -8,6 +11,9 @@
 		"CompositeForms": {
 		},
 		"Forms": {
+			"T_RAMASPOUSZMML_644": {
+				"name": "FormularioSPC"
+      },
 			"T_RAMASKFJCXQXD_719": {
 				"name": "FormularioWCS"
 			}
