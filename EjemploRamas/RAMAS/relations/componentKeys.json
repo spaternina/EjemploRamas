@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_PERSONASS_795": {
+			"name": "PersonaSPC"
+		}
+	},
+	"RMSGT": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASPOUSZMML_644": {
+				"name": "FormularioSPC"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}
