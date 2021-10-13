@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_JOHNVASCO_217": {
+			"name": "JohnVasconez"
+		}
+	},
+	"RMSGT": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASFBSCPZET_554": {
+				"name": "FormularioJOVV"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}
