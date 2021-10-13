@@ -1,0 +1,88 @@
+{
+	"autoCrudStr": "F",
+	"cobisPattern": "None",
+	"cobisPatternId": 0,
+	"commands": [
+	],
+	"customEvents": [
+	],
+	"customizationLayer": 0,
+	"customizationLayerDescription": "ECU",
+	"graphicSupportStr": "F",
+	"header": null,
+	"id": {
+		"moduleId": "RAMAS",
+		"subModuleId": "RMSGT",
+		"taskId": "T_RAMASFBSCPZET_554",
+		"version": "1.0.0"
+	},
+	"isCustomized": false,
+	"isImported": false,
+	"mainViewContainerId": "VC_JOVVSHAKGB_293554",
+	"modeEnabled": 4095,
+	"name": {
+		"$ref": "../../../../RAMAS/relations/componentKeys.json#/RMSGT/Forms/T_RAMASFBSCPZET_554/name"
+	},
+	"setFocus": false,
+	"tempSaveStr": "F",
+	"viewContainers": [
+		{
+			"breadcrumbs": "Automatic",
+			"collapsedStr": "F",
+			"colSpan": 1,
+			"columnsNum": 1,
+			"componentStyle": null,
+			"customEvents": [
+			],
+			"customizationLayer": 0,
+			"customizationLayerDescription": "ECU",
+			"enabled": 4095,
+			"id": {
+				"moduleId": "RAMAS",
+				"subModuleId": "RMSGT",
+				"taskId": "T_RAMASFBSCPZET_554",
+				"taskVersion": "1.0.0",
+				"viewContainerId": "VC_JOVVSHAKGB_293554"
+			},
+			"isCustomized": false,
+			"layoutType": "Group",
+			"name": "FormularioJOVV",
+			"options": 0,
+			"responsiveLayouts": null,
+			"responsivity": false,
+			"style": null,
+			"view": {
+				"groups": [
+					{
+						"collapsedStr": "F",
+						"colSpan": 1,
+						"componentStyle": null,
+						"customEvents": [
+						],
+						"enabled": 4095,
+						"eventType": 0,
+						"groupId": "Undefined",
+						"isCustomized": false,
+						"layoutType": "Empty",
+						"name": "Undefined",
+						"style": null,
+						"visible": 4095,
+						"visualAttributes": [
+						]
+					}
+				],
+				"id": {
+					"version": "1.0.0",
+					"viewId": "VW_JOVVLRFHKE_923"
+				},
+				"metadataVersion": "7.2.0.2024 BETA",
+				"modules": [
+					{
+						"moduleId": "RAMAS"
+					}
+				],
+				"name": "View of FormularioJOVV"
+			}
+		}
+	]
+}
