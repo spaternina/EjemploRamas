@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONISRWDFN_125365",
+		"controlName": "VA_VABUTTONISRWDFN_125365",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 1
+			}
+		],
+		"entityName": "Persona",
+		"eventsType": "visualAttributeEventType"
+	}
+]
